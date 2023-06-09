@@ -20,4 +20,5 @@ Other users: all the permissions
 Regular files should not be changed
 12:creates a directory called my_dir with permissions 751 in the working directory
 13:changes the group owner to school for the file hello
+14:changes the owner to vincent and the group owner to staff for all the files and directories in the working directory
 17:play the StarWars IV episode in the terminal
